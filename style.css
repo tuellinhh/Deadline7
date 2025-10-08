@@ -280,16 +280,19 @@ width: 78px;
     opacity: 50%;
 }
 .button-email{
+    font-family: 'Poppins';
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 209px;
     height: 44px;
-    border-radius: 8px;
-    background-color: rgba(65, 130, 249, 0.1);
-    color: #4182F9;
-    font-weight: 400;
     font-size: 16px;
+    font-weight: 400;
+    border-radius: 8px;
+    box-sizing: border-box;
     border: 0;
-     font-family: 'Poppins';
-    
+    background-color: hsla(219, 94%, 62%, 0.1);
+    color: #4182f9;
 }
 
 
